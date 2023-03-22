@@ -1,0 +1,36 @@
+.home{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+.side{
+    display: inline-block;
+    margin-right: 10px;
+}
+.form_group input{
+    padding: 5px;
+    display: block;
+    width: 100%;
+}
+.form_group select{
+    padding: 5px;
+    font-size: 16px;
+}
+.m_top{
+    margin-top: 20px;
+}
+.w_100{
+    width: 100%;
+}
+.d_block{
+    display: block;
+}
+.home_labels{
+    padding-bottom: 5px;
+}
+h5{
+    margin-bottom: 20px;
+}
